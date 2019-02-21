@@ -1,4 +1,3 @@
-package gadi_mmn15_mavo;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
